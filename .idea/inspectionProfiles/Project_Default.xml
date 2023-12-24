@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cv2.imread" />
+          <option value="cv2.rectangle" />
+          <option value="cv2.imshow" />
+          <option value="cv2.waitKey" />
+          <option value="cv2.CAP_PROP_POS_FRAMES" />
+          <option value="cv2.CAP_PROP_FRAME_COUNT" />
+          <option value="cv2.VideoCapture" />
+          <option value="cv2.COLOR_BGR2GRAY" />
+          <option value="cv2.GaussianBlur" />
+          <option value="cv2.cvtColor" />
+          <option value="cv2.adaptiveThreshold" />
+          <option value="cv2.ADAPTIVE_THRESH_GAUSSIAN_C" />
+          <option value="cv2.THRESH_BINARY_INV" />
+          <option value="cv2.medianBlur" />
+          <option value="cv2.countNonZero" />
+          <option value="cv2.CAP_PROP_FRAME_WIDTH" />
+          <option value="cv2.CAP_PROP_FPS" />
+          <option value="cv2.CAP_PROP_FRAME_HEIGHT" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
